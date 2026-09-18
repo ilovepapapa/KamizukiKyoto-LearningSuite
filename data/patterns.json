@@ -1,0 +1,842 @@
+[
+  {
+    "id": "pattern_001",
+    "category": "自我介绍",
+    "pattern": "私は〜です。",
+    "meaning": "我是……。",
+    "example": "私は陳です。",
+    "example_cn": "我是陈。",
+    "note": "姓名、身份、职业都可以放在「〜」里。",
+    "study": {
+      "seen": 0,
+      "mastered": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "pattern_002",
+    "category": "自我介绍",
+    "pattern": "〜から来ました。",
+    "meaning": "我来自……。",
+    "example": "中国から来ました。",
+    "example_cn": "我来自中国。",
+    "note": "国家或城市 + から来ました。",
+    "study": {
+      "seen": 0,
+      "mastered": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "pattern_003",
+    "category": "自我介绍",
+    "pattern": "〜に住んでいます。",
+    "meaning": "我住在……。",
+    "example": "上海に住んでいます。",
+    "example_cn": "我住在上海。",
+    "note": "居住地点用 に。",
+    "study": {
+      "seen": 0,
+      "mastered": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "pattern_004",
+    "category": "自我介绍",
+    "pattern": "〜が好きです。",
+    "meaning": "我喜欢……。",
+    "example": "日本料理が好きです。",
+    "example_cn": "我喜欢日本料理。",
+    "note": "喜欢对象常用 が。",
+    "study": {
+      "seen": 0,
+      "mastered": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "pattern_005",
+    "category": "自我介绍",
+    "pattern": "〜を勉強しています。",
+    "meaning": "我正在学习……。",
+    "example": "日本語を勉強しています。",
+    "example_cn": "我正在学习日语。",
+    "note": "也可表示持续学习状态。",
+    "study": {
+      "seen": 0,
+      "mastered": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "pattern_006",
+    "category": "自我介绍",
+    "pattern": "よろしくお願いします。",
+    "meaning": "请多关照。",
+    "example": "はじめまして。よろしくお願いします。",
+    "example_cn": "初次见面，请多关照。",
+    "note": "初次见面时非常常用。",
+    "study": {
+      "seen": 0,
+      "mastered": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "pattern_007",
+    "category": "问路・位置",
+    "pattern": "〜はどこですか。",
+    "meaning": "……在哪里？",
+    "example": "駅はどこですか。",
+    "example_cn": "车站在哪里？",
+    "note": "最基础的地点询问。",
+    "study": {
+      "seen": 0,
+      "mastered": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "pattern_008",
+    "category": "问路・位置",
+    "pattern": "ここから遠いですか。",
+    "meaning": "离这里远吗？",
+    "example": "清水寺はここから遠いですか。",
+    "example_cn": "清水寺离这里远吗？",
+    "note": "「ここから」表示从这里开始计算。",
+    "study": {
+      "seen": 0,
+      "mastered": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "pattern_009",
+    "category": "问路・位置",
+    "pattern": "どうやって行きますか。",
+    "meaning": "怎么去？",
+    "example": "京都駅までどうやって行きますか。",
+    "example_cn": "怎么去京都站？",
+    "note": "询问交通方式或路线。",
+    "study": {
+      "seen": 0,
+      "mastered": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "pattern_010",
+    "category": "问路・位置",
+    "pattern": "まっすぐ行ってください。",
+    "meaning": "请直走。",
+    "example": "この道をまっすぐ行ってください。",
+    "example_cn": "请沿这条路直走。",
+    "note": "常见路线指示。",
+    "study": {
+      "seen": 0,
+      "mastered": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "pattern_011",
+    "category": "问路・位置",
+    "pattern": "右／左に曲がってください。",
+    "meaning": "请右转／左转。",
+    "example": "次の角を右に曲がってください。",
+    "example_cn": "请在下一个路口右转。",
+    "note": "「角」可指路口转角。",
+    "study": {
+      "seen": 0,
+      "mastered": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "pattern_012",
+    "category": "问路・位置",
+    "pattern": "近くに〜がありますか。",
+    "meaning": "附近有……吗？",
+    "example": "近くにコンビニがありますか。",
+    "example_cn": "附近有便利店吗？",
+    "note": "实用旅行句型。",
+    "study": {
+      "seen": 0,
+      "mastered": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "pattern_013",
+    "category": "交通",
+    "pattern": "〜までお願いします。",
+    "meaning": "请到……。",
+    "example": "京都駅までお願いします。",
+    "example_cn": "请到京都站。",
+    "note": "坐出租车时非常实用。",
+    "study": {
+      "seen": 0,
+      "mastered": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "pattern_014",
+    "category": "交通",
+    "pattern": "この電車は〜へ行きますか。",
+    "meaning": "这趟电车去……吗？",
+    "example": "この電車は大阪へ行きますか。",
+    "example_cn": "这趟电车去大阪吗？",
+    "note": "确认方向。",
+    "study": {
+      "seen": 0,
+      "mastered": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "pattern_015",
+    "category": "交通",
+    "pattern": "〜で乗り換えますか。",
+    "meaning": "在……换乘吗？",
+    "example": "烏丸で乗り換えますか。",
+    "example_cn": "在乌丸换乘吗？",
+    "note": "「乗り換える」=换乘。",
+    "study": {
+      "seen": 0,
+      "mastered": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "pattern_016",
+    "category": "交通",
+    "pattern": "次は何駅ですか。",
+    "meaning": "下一站是哪一站？",
+    "example": "次は何駅ですか。",
+    "example_cn": "下一站是哪一站？",
+    "note": "适合车内询问。",
+    "study": {
+      "seen": 0,
+      "mastered": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "pattern_017",
+    "category": "交通",
+    "pattern": "切符はどこで買えますか。",
+    "meaning": "车票在哪里可以买？",
+    "example": "切符はどこで買えますか。",
+    "example_cn": "车票在哪里可以买？",
+    "note": "「買えます」是“可以买”。",
+    "study": {
+      "seen": 0,
+      "mastered": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "pattern_018",
+    "category": "交通",
+    "pattern": "ICカードは使えますか。",
+    "meaning": "可以用交通卡吗？",
+    "example": "このバスでICカードは使えますか。",
+    "example_cn": "这辆公交车可以用交通卡吗？",
+    "note": "ICOCA、Suica 等都属于 IC 卡。",
+    "study": {
+      "seen": 0,
+      "mastered": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "pattern_019",
+    "category": "餐厅",
+    "pattern": "〜をお願いします。",
+    "meaning": "请给我……。",
+    "example": "ラーメンをお願いします。",
+    "example_cn": "请给我拉面。",
+    "note": "点餐最稳妥的句型之一。",
+    "study": {
+      "seen": 0,
+      "mastered": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "pattern_020",
+    "category": "餐厅",
+    "pattern": "おすすめは何ですか。",
+    "meaning": "有什么推荐？",
+    "example": "おすすめは何ですか。",
+    "example_cn": "有什么推荐？",
+    "note": "「おすすめ」=推荐。",
+    "study": {
+      "seen": 0,
+      "mastered": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "pattern_021",
+    "category": "餐厅",
+    "pattern": "これは何ですか。",
+    "meaning": "这是什么？",
+    "example": "これは何ですか。",
+    "example_cn": "这是什么？",
+    "note": "看菜单或食物时通用。",
+    "study": {
+      "seen": 0,
+      "mastered": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "pattern_022",
+    "category": "餐厅",
+    "pattern": "〜は入っていますか。",
+    "meaning": "里面有……吗？",
+    "example": "卵は入っていますか。",
+    "example_cn": "里面有鸡蛋吗？",
+    "note": "询问配料。",
+    "study": {
+      "seen": 0,
+      "mastered": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "pattern_023",
+    "category": "餐厅",
+    "pattern": "辛くしないでください。",
+    "meaning": "请不要做辣。",
+    "example": "あまり辛くしないでください。",
+    "example_cn": "请不要做得太辣。",
+    "note": "〜ないでください = 请不要……。",
+    "study": {
+      "seen": 0,
+      "mastered": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "pattern_024",
+    "category": "餐厅",
+    "pattern": "お会計お願いします。",
+    "meaning": "请结账。",
+    "example": "すみません、お会計お願いします。",
+    "example_cn": "不好意思，请结账。",
+    "note": "餐厅常用。",
+    "study": {
+      "seen": 0,
+      "mastered": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "pattern_025",
+    "category": "购物",
+    "pattern": "これはいくらですか。",
+    "meaning": "这个多少钱？",
+    "example": "これはいくらですか。",
+    "example_cn": "这个多少钱？",
+    "note": "最基础价格询问。",
+    "study": {
+      "seen": 0,
+      "mastered": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "pattern_026",
+    "category": "购物",
+    "pattern": "もう少し安いものはありますか。",
+    "meaning": "有再便宜一点的吗？",
+    "example": "もう少し安いものはありますか。",
+    "example_cn": "有再便宜一点的吗？",
+    "note": "比直接砍价更自然。",
+    "study": {
+      "seen": 0,
+      "mastered": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "pattern_027",
+    "category": "购物",
+    "pattern": "これを見せてください。",
+    "meaning": "请给我看看这个。",
+    "example": "これを見せてください。",
+    "example_cn": "请给我看看这个。",
+    "note": "柜台购物常用。",
+    "study": {
+      "seen": 0,
+      "mastered": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "pattern_028",
+    "category": "购物",
+    "pattern": "試着してもいいですか。",
+    "meaning": "可以试穿吗？",
+    "example": "これを試着してもいいですか。",
+    "example_cn": "这个可以试穿吗？",
+    "note": "服装店实用。",
+    "study": {
+      "seen": 0,
+      "mastered": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "pattern_029",
+    "category": "购物",
+    "pattern": "カードで払えますか。",
+    "meaning": "可以刷卡吗？",
+    "example": "カードで払えますか。",
+    "example_cn": "可以刷卡吗？",
+    "note": "「払う」=支付。",
+    "study": {
+      "seen": 0,
+      "mastered": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "pattern_030",
+    "category": "购物",
+    "pattern": "袋はいりません。",
+    "meaning": "不需要袋子。",
+    "example": "袋はいりません。",
+    "example_cn": "不需要袋子。",
+    "note": "环保购物常用。",
+    "study": {
+      "seen": 0,
+      "mastered": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "pattern_031",
+    "category": "住宿",
+    "pattern": "予約しています。",
+    "meaning": "我有预订。",
+    "example": "田中の名前で予約しています。",
+    "example_cn": "用田中的名字预订了。",
+    "note": "酒店入住常用。",
+    "study": {
+      "seen": 0,
+      "mastered": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "pattern_032",
+    "category": "住宿",
+    "pattern": "チェックインをお願いします。",
+    "meaning": "请办理入住。",
+    "example": "チェックインをお願いします。",
+    "example_cn": "请办理入住。",
+    "note": "外来语直接使用。",
+    "study": {
+      "seen": 0,
+      "mastered": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "pattern_033",
+    "category": "住宿",
+    "pattern": "Wi-Fiはありますか。",
+    "meaning": "有 Wi-Fi 吗？",
+    "example": "部屋にWi-Fiはありますか。",
+    "example_cn": "房间里有 Wi-Fi 吗？",
+    "note": "住宿高频问题。",
+    "study": {
+      "seen": 0,
+      "mastered": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "pattern_034",
+    "category": "住宿",
+    "pattern": "朝食は何時からですか。",
+    "meaning": "早餐几点开始？",
+    "example": "朝食は何時からですか。",
+    "example_cn": "早餐几点开始？",
+    "note": "询问服务时间。",
+    "study": {
+      "seen": 0,
+      "mastered": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "pattern_035",
+    "category": "住宿",
+    "pattern": "荷物を預かってもらえますか。",
+    "meaning": "可以帮我保管行李吗？",
+    "example": "荷物を預かってもらえますか。",
+    "example_cn": "可以帮我保管行李吗？",
+    "note": "退房前后常用。",
+    "study": {
+      "seen": 0,
+      "mastered": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "pattern_036",
+    "category": "住宿",
+    "pattern": "チェックアウトは何時ですか。",
+    "meaning": "几点退房？",
+    "example": "チェックアウトは何時ですか。",
+    "example_cn": "几点退房？",
+    "note": "确认退房时间。",
+    "study": {
+      "seen": 0,
+      "mastered": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "pattern_037",
+    "category": "日常交流",
+    "pattern": "もう一度お願いします。",
+    "meaning": "请再说一次。",
+    "example": "すみません、もう一度お願いします。",
+    "example_cn": "不好意思，请再说一次。",
+    "note": "听不懂时非常实用。",
+    "study": {
+      "seen": 0,
+      "mastered": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "pattern_038",
+    "category": "日常交流",
+    "pattern": "ゆっくり話してください。",
+    "meaning": "请慢一点说。",
+    "example": "もう少しゆっくり話してください。",
+    "example_cn": "请再慢一点说。",
+    "note": "初学者必备。",
+    "study": {
+      "seen": 0,
+      "mastered": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "pattern_039",
+    "category": "日常交流",
+    "pattern": "〜は日本語で何と言いますか。",
+    "meaning": "……用日语怎么说？",
+    "example": "これは日本語で何と言いますか。",
+    "example_cn": "这个用日语怎么说？",
+    "note": "学习现场很实用。",
+    "study": {
+      "seen": 0,
+      "mastered": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "pattern_040",
+    "category": "日常交流",
+    "pattern": "〜という意味ですか。",
+    "meaning": "是……的意思吗？",
+    "example": "「無料」はタダという意味ですか。",
+    "example_cn": "“免费”是不要钱的意思吗？",
+    "note": "确认词义。",
+    "study": {
+      "seen": 0,
+      "mastered": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "pattern_041",
+    "category": "日常交流",
+    "pattern": "ちょっと分かりません。",
+    "meaning": "我不太明白。",
+    "example": "すみません、ちょっと分かりません。",
+    "example_cn": "不好意思，我不太明白。",
+    "note": "比完全否定更柔和。",
+    "study": {
+      "seen": 0,
+      "mastered": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "pattern_042",
+    "category": "日常交流",
+    "pattern": "大丈夫です。",
+    "meaning": "没关系／不用了／可以。",
+    "example": "ありがとうございます。でも、大丈夫です。",
+    "example_cn": "谢谢，不过不用了。",
+    "note": "具体含义靠语境判断。",
+    "study": {
+      "seen": 0,
+      "mastered": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "pattern_043",
+    "category": "邀请・约定",
+    "pattern": "一緒に〜ませんか。",
+    "meaning": "要不要一起……？",
+    "example": "一緒にご飯を食べませんか。",
+    "example_cn": "要不要一起吃饭？",
+    "note": "礼貌邀请。",
+    "study": {
+      "seen": 0,
+      "mastered": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "pattern_044",
+    "category": "邀请・约定",
+    "pattern": "〜ましょう。",
+    "meaning": "一起……吧。",
+    "example": "明日、一緒に行きましょう。",
+    "example_cn": "明天一起去吧。",
+    "note": "共同提议。",
+    "study": {
+      "seen": 0,
+      "mastered": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "pattern_045",
+    "category": "邀请・约定",
+    "pattern": "何時がいいですか。",
+    "meaning": "几点方便？",
+    "example": "何時がいいですか。",
+    "example_cn": "几点方便？",
+    "note": "约时间常用。",
+    "study": {
+      "seen": 0,
+      "mastered": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "pattern_046",
+    "category": "邀请・约定",
+    "pattern": "〜で会いましょう。",
+    "meaning": "在……见吧。",
+    "example": "駅の前で会いましょう。",
+    "example_cn": "在车站前见吧。",
+    "note": "地点 + で。",
+    "study": {
+      "seen": 0,
+      "mastered": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "pattern_047",
+    "category": "邀请・约定",
+    "pattern": "都合はどうですか。",
+    "meaning": "方便吗？",
+    "example": "土曜日の都合はどうですか。",
+    "example_cn": "周六方便吗？",
+    "note": "较礼貌地问时间安排。",
+    "study": {
+      "seen": 0,
+      "mastered": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "pattern_048",
+    "category": "邀请・约定",
+    "pattern": "また連絡します。",
+    "meaning": "我再联系你。",
+    "example": "時間が決まったら、また連絡します。",
+    "example_cn": "时间定下来后我再联系你。",
+    "note": "自然的结束语。",
+    "study": {
+      "seen": 0,
+      "mastered": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "pattern_049",
+    "category": "需求・许可",
+    "pattern": "〜てもいいですか。",
+    "meaning": "可以……吗？",
+    "example": "ここに座ってもいいですか。",
+    "example_cn": "可以坐这里吗？",
+    "note": "请求许可。",
+    "study": {
+      "seen": 0,
+      "mastered": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "pattern_050",
+    "category": "需求・许可",
+    "pattern": "〜てもらえますか。",
+    "meaning": "可以请你……吗？",
+    "example": "写真を撮ってもらえますか。",
+    "example_cn": "可以帮我拍照吗？",
+    "note": "请求别人为自己做事。",
+    "study": {
+      "seen": 0,
+      "mastered": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "pattern_051",
+    "category": "需求・许可",
+    "pattern": "〜てください。",
+    "meaning": "请……。",
+    "example": "少し待ってください。",
+    "example_cn": "请稍等。",
+    "note": "直接但礼貌。",
+    "study": {
+      "seen": 0,
+      "mastered": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "pattern_052",
+    "category": "需求・许可",
+    "pattern": "〜ないでください。",
+    "meaning": "请不要……。",
+    "example": "ここで写真を撮らないでください。",
+    "example_cn": "请不要在这里拍照。",
+    "note": "禁止或请求停止。",
+    "study": {
+      "seen": 0,
+      "mastered": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "pattern_053",
+    "category": "需求・许可",
+    "pattern": "〜が欲しいです。",
+    "meaning": "我想要……。",
+    "example": "小さいサイズが欲しいです。",
+    "example_cn": "我想要小号的。",
+    "note": "想要物品。",
+    "study": {
+      "seen": 0,
+      "mastered": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "pattern_054",
+    "category": "需求・许可",
+    "pattern": "〜たいです。",
+    "meaning": "我想……。",
+    "example": "京都で抹茶を飲みたいです。",
+    "example_cn": "我想在京都喝抹茶。",
+    "note": "表达自己的愿望。",
+    "study": {
+      "seen": 0,
+      "mastered": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "pattern_055",
+    "category": "身体・紧急",
+    "pattern": "気分が悪いです。",
+    "meaning": "我不舒服。",
+    "example": "少し気分が悪いです。",
+    "example_cn": "我有点不舒服。",
+    "note": "身体不适时使用。",
+    "study": {
+      "seen": 0,
+      "mastered": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "pattern_056",
+    "category": "身体・紧急",
+    "pattern": "病院はどこですか。",
+    "meaning": "医院在哪里？",
+    "example": "近くの病院はどこですか。",
+    "example_cn": "附近的医院在哪里？",
+    "note": "紧急情况下实用。",
+    "study": {
+      "seen": 0,
+      "mastered": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "pattern_057",
+    "category": "身体・紧急",
+    "pattern": "助けてください。",
+    "meaning": "请帮帮我。",
+    "example": "すみません、助けてください。",
+    "example_cn": "不好意思，请帮帮我。",
+    "note": "紧急求助。",
+    "study": {
+      "seen": 0,
+      "mastered": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "pattern_058",
+    "category": "身体・紧急",
+    "pattern": "警察を呼んでください。",
+    "meaning": "请叫警察。",
+    "example": "警察を呼んでください。",
+    "example_cn": "请叫警察。",
+    "note": "紧急情况。",
+    "study": {
+      "seen": 0,
+      "mastered": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "pattern_059",
+    "category": "身体・紧急",
+    "pattern": "財布をなくしました。",
+    "meaning": "钱包丢了。",
+    "example": "財布をなくしました。",
+    "example_cn": "钱包丢了。",
+    "note": "遗失物品。",
+    "study": {
+      "seen": 0,
+      "mastered": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "pattern_060",
+    "category": "身体・紧急",
+    "pattern": "道に迷いました。",
+    "meaning": "我迷路了。",
+    "example": "すみません、道に迷いました。",
+    "example_cn": "不好意思，我迷路了。",
+    "note": "问路前说明情况。",
+    "study": {
+      "seen": 0,
+      "mastered": 0,
+      "review": 0
+    }
+  }
+]

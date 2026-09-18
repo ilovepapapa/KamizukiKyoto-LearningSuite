@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <meta name="theme-color" content="#2b221e">
+  <title>神月京都物语 · 日语学习</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body data-page="home">
+<div class="app-shell">
+  <aside id="sidebar"></aside>
+
+  <main class="main-stage">
+    <header class="topbar">
+      <div class="player-info">
+        <div class="player-name">🌸 慕容楚歌</div>
+        <div class="player-level">Kamizuki Kyoto · Personal Japanese Study</div>
+      </div>
+      <div class="header-progress">
+        <div class="header-progress-line"><span data-header-daily>今日 0 / 12</span><span data-header-exp>总经验 0 EXP</span></div>
+        <div class="exp-bar"><div class="exp-value" data-header-bar></div></div>
+      </div>
+    </header>
+
+    <section class="hero-dashboard">
+      <div class="hero-copy">
+        <div class="eyebrow">神月京都物语 · 学习版 V1.0</div>
+        <h1>每天学一点，<br><span>把日语变成生活能力。</span></h1>
+        <p>从五十音开始，逐步进入高频单词、核心语法、实用句型和听力练习。没有开放世界，也没有复杂剧情，所有内容都围绕“真的学会日语”。</p>
+        <div class="hero-actions">
+          <a class="primary-action" href="pages/kana.html">继续五十音</a>
+          <a class="secondary-action" href="pages/vocabulary.html">开始单词</a>
+        </div>
+      </div>
+
+      <div class="hero-ayano-card">
+        <div class="hero-ayano-image">
+          <img src="images/ayano.png" onerror="this.onerror=null;this.src='images/ayano.svg'" alt="绫乃">
+        </div>
+        <div class="hero-ayano-copy">
+          <div class="hero-ayano-name">綾乃 <span>绫乃</span></div>
+          <p id="dashboard-ayano">今日は、少しずつ進めましょう。</p>
+          <small id="dashboard-ayano-cn">今天也一点一点往前走。</small>
+        </div>
+      </div>
+    </section>
+
+    <section class="today-panel">
+      <div class="section-heading">
+        <div>
+          <span class="section-kicker">TODAY</span>
+          <h2>今日学习</h2>
+        </div>
+        <div class="today-total" id="today-total">0 / 12</div>
+      </div>
+
+      <div class="daily-progress-track"><div id="daily-progress-fill"></div></div>
+
+      <div class="daily-module-grid">
+        <article class="daily-module" data-module="kana">
+          <span class="daily-icon">あ</span><div><strong>五十音</strong><small>发音、字形、例词</small></div><b id="daily-kana">0</b>
+        </article>
+        <article class="daily-module" data-module="vocab">
+          <span class="daily-icon">単</span><div><strong>单词</strong><small>130 个基础词汇</small></div><b id="daily-vocab">0</b>
+        </article>
+        <article class="daily-module" data-module="grammar">
+          <span class="daily-icon">文</span><div><strong>语法</strong><small>51 个初级核心点</small></div><b id="daily-grammar">0</b>
+        </article>
+        <article class="daily-module" data-module="patterns">
+          <span class="daily-icon">句</span><div><strong>句型</strong><small>60 个生活表达</small></div><b id="daily-patterns">0</b>
+        </article>
+        <article class="daily-module" data-module="listening">
+          <span class="daily-icon">🎧</span><div><strong>听力</strong><small>假名、单词、句型混合</small></div><b id="daily-listening">0</b>
+        </article>
+      </div>
+    </section>
+
+    <section class="module-section">
+      <div class="section-heading">
+        <div><span class="section-kicker">STUDY MAP</span><h2>学习地图</h2></div>
+        <p>建议顺序：五十音 → 单词 → 语法 → 句型 → 听力。</p>
+      </div>
+
+      <div class="module-grid">
+        <a class="module-card kana-module" href="pages/kana.html">
+          <div class="module-symbol">あ</div><div class="module-index">01</div>
+          <h3>五十音</h3><p>46 张基础假名卡，结合发音、例词、记忆提示和复习优先级。</p><span>进入学习 →</span>
+        </a>
+        <a class="module-card vocab-module" href="pages/vocabulary.html">
+          <div class="module-symbol">単</div><div class="module-index">02</div>
+          <h3>基础单词</h3><p>130 个高频基础词，按生活场景分类，配读音、例句和语音。</p><span>进入学习 →</span>
+        </a>
+        <a class="module-card grammar-module" href="pages/grammar.html">
+          <div class="module-symbol">文</div><div class="module-index">03</div>
+          <h3>核心语法</h3><p>51 个初级语法点，从助词到动词、形容词和常见复合句型。</p><span>进入学习 →</span>
+        </a>
+        <a class="module-card pattern-module" href="pages/patterns.html">
+          <div class="module-symbol">句</div><div class="module-index">04</div>
+          <h3>实用句型</h3><p>60 个可以直接在日本使用的句型，覆盖交通、餐厅、购物、住宿等。</p><span>进入学习 →</span>
+        </a>
+        <a class="module-card listening-module" href="pages/listening.html">
+          <div class="module-symbol">🎧</div><div class="module-index">05</div>
+          <h3>听力训练</h3><p>用浏览器日语语音做辨音、辨词和辨句练习，把“看懂”变成“听懂”。</p><span>进入学习 →</span>
+        </a>
+        <a class="module-card culture-module" href="pages/culture.html">
+          <div class="module-symbol">⛩</div><div class="module-index">06</div>
+          <h3>日本文化</h3><p>京都、神社、饮食、礼仪、季节和生活文化，用背景知识理解语言。</p><span>进入图鉴 →</span>
+        </a>
+      </div>
+    </section>
+
+    <section class="learning-principles">
+      <div class="section-heading"><div><span class="section-kicker">METHOD</span><h2>学习原则</h2></div></div>
+      <div class="principle-grid">
+        <article><b>01</b><h3>先听，再看</h3><p>先让声音进入耳朵，再把声音和字形、意思连接起来。</p></article>
+        <article><b>02</b><h3>短时重复</h3><p>每天少量、多次，比偶尔一次学很多更容易形成长期记忆。</p></article>
+        <article><b>03</b><h3>句子优先</h3><p>单词和语法最终都要放进句子里，才能真正用于交流。</p></article>
+      </div>
+    </section>
+  </main>
+</div>
+
+<script src="js/shared.js"></script>
+<script src="js/dashboard.js"></script>
+</body>
+</html>

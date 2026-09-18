@@ -1,0 +1,1952 @@
+[
+  {
+    "id": "vocab_001",
+    "category": "问候・基础",
+    "word": "おはよう",
+    "reading": "おはよう",
+    "meaning": "早上好",
+    "note": "表达早晨问候。",
+    "example": "おはようございます。",
+    "example_cn": "早上好。",
+    "study": {
+      "seen": 0,
+      "known": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "vocab_002",
+    "category": "问候・基础",
+    "word": "こんにちは",
+    "reading": "こんにちは",
+    "meaning": "你好",
+    "note": "白天常用问候。",
+    "example": "こんにちは。お元気ですか。",
+    "example_cn": "你好。最近好吗？",
+    "study": {
+      "seen": 0,
+      "known": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "vocab_003",
+    "category": "问候・基础",
+    "word": "こんばんは",
+    "reading": "こんばんは",
+    "meaning": "晚上好",
+    "note": "傍晚以后常用。",
+    "example": "こんばんは。",
+    "example_cn": "晚上好。",
+    "study": {
+      "seen": 0,
+      "known": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "vocab_004",
+    "category": "问候・基础",
+    "word": "ありがとう",
+    "reading": "ありがとう",
+    "meaning": "谢谢",
+    "note": "较口语的感谢。",
+    "example": "ありがとうございます。",
+    "example_cn": "非常感谢。",
+    "study": {
+      "seen": 0,
+      "known": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "vocab_005",
+    "category": "问候・基础",
+    "word": "すみません",
+    "reading": "すみません",
+    "meaning": "不好意思／对不起",
+    "note": "可用于道歉、引起注意或表达感谢。",
+    "example": "すみません、駅はどこですか。",
+    "example_cn": "不好意思，请问车站在哪里？",
+    "study": {
+      "seen": 0,
+      "known": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "vocab_006",
+    "category": "问候・基础",
+    "word": "はい",
+    "reading": "はい",
+    "meaning": "是／好的",
+    "note": "肯定回答。",
+    "example": "はい、分かりました。",
+    "example_cn": "好的，我明白了。",
+    "study": {
+      "seen": 0,
+      "known": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "vocab_007",
+    "category": "问候・基础",
+    "word": "いいえ",
+    "reading": "いいえ",
+    "meaning": "不／不是",
+    "note": "否定回答。",
+    "example": "いいえ、違います。",
+    "example_cn": "不，不是。",
+    "study": {
+      "seen": 0,
+      "known": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "vocab_008",
+    "category": "问候・基础",
+    "word": "お願いします",
+    "reading": "おねがいします",
+    "meaning": "拜托了／请",
+    "note": "请求时常用。",
+    "example": "水をお願いします。",
+    "example_cn": "请给我水。",
+    "study": {
+      "seen": 0,
+      "known": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "vocab_009",
+    "category": "问候・基础",
+    "word": "大丈夫",
+    "reading": "だいじょうぶ",
+    "meaning": "没事／可以",
+    "note": "表示没问题或拒绝帮助。",
+    "example": "はい、大丈夫です。",
+    "example_cn": "嗯，没问题。",
+    "study": {
+      "seen": 0,
+      "known": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "vocab_010",
+    "category": "问候・基础",
+    "word": "分かる",
+    "reading": "わかる",
+    "meaning": "明白",
+    "note": "表示理解。",
+    "example": "日本語が少し分かります。",
+    "example_cn": "我懂一点日语。",
+    "study": {
+      "seen": 0,
+      "known": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "vocab_011",
+    "category": "时间・日期",
+    "word": "今日",
+    "reading": "きょう",
+    "meaning": "今天",
+    "note": "时间名词。",
+    "example": "今日は金曜日です。",
+    "example_cn": "今天是星期五。",
+    "study": {
+      "seen": 0,
+      "known": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "vocab_012",
+    "category": "时间・日期",
+    "word": "明日",
+    "reading": "あした",
+    "meaning": "明天",
+    "note": "时间名词。",
+    "example": "明日、京都へ行きます。",
+    "example_cn": "明天去京都。",
+    "study": {
+      "seen": 0,
+      "known": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "vocab_013",
+    "category": "时间・日期",
+    "word": "昨日",
+    "reading": "きのう",
+    "meaning": "昨天",
+    "note": "时间名词。",
+    "example": "昨日は雨でした。",
+    "example_cn": "昨天是雨天。",
+    "study": {
+      "seen": 0,
+      "known": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "vocab_014",
+    "category": "时间・日期",
+    "word": "今",
+    "reading": "いま",
+    "meaning": "现在",
+    "note": "当前时间。",
+    "example": "今、何時ですか。",
+    "example_cn": "现在几点？",
+    "study": {
+      "seen": 0,
+      "known": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "vocab_015",
+    "category": "时间・日期",
+    "word": "朝",
+    "reading": "あさ",
+    "meaning": "早晨",
+    "note": "一天中的时间。",
+    "example": "朝、コーヒーを飲みます。",
+    "example_cn": "早上喝咖啡。",
+    "study": {
+      "seen": 0,
+      "known": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "vocab_016",
+    "category": "时间・日期",
+    "word": "昼",
+    "reading": "ひる",
+    "meaning": "白天／中午",
+    "note": "一天中的时间。",
+    "example": "昼ご飯を食べます。",
+    "example_cn": "吃午饭。",
+    "study": {
+      "seen": 0,
+      "known": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "vocab_017",
+    "category": "时间・日期",
+    "word": "夜",
+    "reading": "よる",
+    "meaning": "夜晚",
+    "note": "一天中的时间。",
+    "example": "夜は本を読みます。",
+    "example_cn": "晚上看书。",
+    "study": {
+      "seen": 0,
+      "known": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "vocab_018",
+    "category": "时间・日期",
+    "word": "時間",
+    "reading": "じかん",
+    "meaning": "时间／小时",
+    "note": "时间长度。",
+    "example": "一時間勉強します。",
+    "example_cn": "学习一小时。",
+    "study": {
+      "seen": 0,
+      "known": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "vocab_019",
+    "category": "时间・日期",
+    "word": "毎日",
+    "reading": "まいにち",
+    "meaning": "每天",
+    "note": "频率词。",
+    "example": "毎日、日本語を勉強します。",
+    "example_cn": "每天学习日语。",
+    "study": {
+      "seen": 0,
+      "known": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "vocab_020",
+    "category": "时间・日期",
+    "word": "週末",
+    "reading": "しゅうまつ",
+    "meaning": "周末",
+    "note": "星期末。",
+    "example": "週末は家で休みます。",
+    "example_cn": "周末在家休息。",
+    "study": {
+      "seen": 0,
+      "known": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "vocab_021",
+    "category": "数字・数量",
+    "word": "一",
+    "reading": "いち",
+    "meaning": "一",
+    "note": "数字。",
+    "example": "りんごを一つください。",
+    "example_cn": "请给我一个苹果。",
+    "study": {
+      "seen": 0,
+      "known": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "vocab_022",
+    "category": "数字・数量",
+    "word": "二",
+    "reading": "に",
+    "meaning": "二",
+    "note": "数字。",
+    "example": "猫が二匹います。",
+    "example_cn": "有两只猫。",
+    "study": {
+      "seen": 0,
+      "known": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "vocab_023",
+    "category": "数字・数量",
+    "word": "三",
+    "reading": "さん",
+    "meaning": "三",
+    "note": "数字。",
+    "example": "三人で行きます。",
+    "example_cn": "三个人一起去。",
+    "study": {
+      "seen": 0,
+      "known": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "vocab_024",
+    "category": "数字・数量",
+    "word": "百",
+    "reading": "ひゃく",
+    "meaning": "一百",
+    "note": "数字。",
+    "example": "これは百円です。",
+    "example_cn": "这个100日元。",
+    "study": {
+      "seen": 0,
+      "known": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "vocab_025",
+    "category": "数字・数量",
+    "word": "千",
+    "reading": "せん",
+    "meaning": "一千",
+    "note": "数字。",
+    "example": "千円あります。",
+    "example_cn": "有1000日元。",
+    "study": {
+      "seen": 0,
+      "known": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "vocab_026",
+    "category": "数字・数量",
+    "word": "一つ",
+    "reading": "ひとつ",
+    "meaning": "一个",
+    "note": "通用数量词。",
+    "example": "一つお願いします。",
+    "example_cn": "请给我一个。",
+    "study": {
+      "seen": 0,
+      "known": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "vocab_027",
+    "category": "数字・数量",
+    "word": "二人",
+    "reading": "ふたり",
+    "meaning": "两个人",
+    "note": "人数特殊读法。",
+    "example": "二人で写真を撮ります。",
+    "example_cn": "两个人一起拍照。",
+    "study": {
+      "seen": 0,
+      "known": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "vocab_028",
+    "category": "数字・数量",
+    "word": "何",
+    "reading": "なに／なん",
+    "meaning": "什么",
+    "note": "「何」会因后接词而读作「なに」或「なん」；例如「何ですか」通常读「なんですか」。",
+    "example": "これは何ですか。",
+    "example_cn": "这是什么？",
+    "study": {
+      "seen": 0,
+      "known": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "vocab_029",
+    "category": "数字・数量",
+    "word": "いくつ",
+    "reading": "いくつ",
+    "meaning": "几个／几岁",
+    "note": "询问数量或年龄。",
+    "example": "りんごはいくつありますか。",
+    "example_cn": "有几个苹果？",
+    "study": {
+      "seen": 0,
+      "known": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "vocab_030",
+    "category": "数字・数量",
+    "word": "いくら",
+    "reading": "いくら",
+    "meaning": "多少钱",
+    "note": "询问价格。",
+    "example": "これはいくらですか。",
+    "example_cn": "这个多少钱？",
+    "study": {
+      "seen": 0,
+      "known": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "vocab_031",
+    "category": "人物・家庭",
+    "word": "人",
+    "reading": "ひと",
+    "meaning": "人",
+    "note": "一般称呼。",
+    "example": "あの人は先生です。",
+    "example_cn": "那个人是老师。",
+    "study": {
+      "seen": 0,
+      "known": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "vocab_032",
+    "category": "人物・家庭",
+    "word": "友達",
+    "reading": "ともだち",
+    "meaning": "朋友",
+    "note": "人际关系。",
+    "example": "友達と映画を見ます。",
+    "example_cn": "和朋友看电影。",
+    "study": {
+      "seen": 0,
+      "known": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "vocab_033",
+    "category": "人物・家庭",
+    "word": "家族",
+    "reading": "かぞく",
+    "meaning": "家人／家庭",
+    "note": "家庭成员整体。",
+    "example": "家族は四人です。",
+    "example_cn": "我家有四口人。",
+    "study": {
+      "seen": 0,
+      "known": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "vocab_034",
+    "category": "人物・家庭",
+    "word": "父",
+    "reading": "ちち",
+    "meaning": "父亲（自己的）",
+    "note": "谈自己的父亲时用。",
+    "example": "父は会社員です。",
+    "example_cn": "我父亲是公司职员。",
+    "study": {
+      "seen": 0,
+      "known": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "vocab_035",
+    "category": "人物・家庭",
+    "word": "母",
+    "reading": "はは",
+    "meaning": "母亲（自己的）",
+    "note": "谈自己的母亲时用。",
+    "example": "母は料理が好きです。",
+    "example_cn": "我母亲喜欢做饭。",
+    "study": {
+      "seen": 0,
+      "known": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "vocab_036",
+    "category": "人物・家庭",
+    "word": "兄",
+    "reading": "あに",
+    "meaning": "哥哥（自己的）",
+    "note": "谈自己的哥哥时用。",
+    "example": "兄は東京に住んでいます。",
+    "example_cn": "我哥哥住在东京。",
+    "study": {
+      "seen": 0,
+      "known": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "vocab_037",
+    "category": "人物・家庭",
+    "word": "姉",
+    "reading": "あね",
+    "meaning": "姐姐（自己的）",
+    "note": "谈自己的姐姐时用。",
+    "example": "姉は先生です。",
+    "example_cn": "我姐姐是老师。",
+    "study": {
+      "seen": 0,
+      "known": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "vocab_038",
+    "category": "人物・家庭",
+    "word": "弟",
+    "reading": "おとうと",
+    "meaning": "弟弟",
+    "note": "家庭成员。",
+    "example": "弟は高校生です。",
+    "example_cn": "我弟弟是高中生。",
+    "study": {
+      "seen": 0,
+      "known": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "vocab_039",
+    "category": "人物・家庭",
+    "word": "妹",
+    "reading": "いもうと",
+    "meaning": "妹妹",
+    "note": "家庭成员。",
+    "example": "妹は音楽が好きです。",
+    "example_cn": "我妹妹喜欢音乐。",
+    "study": {
+      "seen": 0,
+      "known": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "vocab_040",
+    "category": "人物・家庭",
+    "word": "先生",
+    "reading": "せんせい",
+    "meaning": "老师／先生",
+    "note": "教师、医生等尊称。",
+    "example": "田中先生に聞きます。",
+    "example_cn": "问田中老师。",
+    "study": {
+      "seen": 0,
+      "known": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "vocab_041",
+    "category": "家・日常",
+    "word": "家",
+    "reading": "いえ",
+    "meaning": "家",
+    "note": "住宅。",
+    "example": "家に帰ります。",
+    "example_cn": "回家。",
+    "study": {
+      "seen": 0,
+      "known": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "vocab_042",
+    "category": "家・日常",
+    "word": "部屋",
+    "reading": "へや",
+    "meaning": "房间",
+    "note": "室内空间。",
+    "example": "部屋を掃除します。",
+    "example_cn": "打扫房间。",
+    "study": {
+      "seen": 0,
+      "known": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "vocab_043",
+    "category": "家・日常",
+    "word": "ドア",
+    "reading": "ドア",
+    "meaning": "门",
+    "note": "外来语。",
+    "example": "ドアを開けてください。",
+    "example_cn": "请开门。",
+    "study": {
+      "seen": 0,
+      "known": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "vocab_044",
+    "category": "家・日常",
+    "word": "窓",
+    "reading": "まど",
+    "meaning": "窗户",
+    "note": "房间设施。",
+    "example": "窓を閉めます。",
+    "example_cn": "关窗。",
+    "study": {
+      "seen": 0,
+      "known": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "vocab_045",
+    "category": "家・日常",
+    "word": "机",
+    "reading": "つくえ",
+    "meaning": "桌子",
+    "note": "家具。",
+    "example": "机の上に本があります。",
+    "example_cn": "桌上有书。",
+    "study": {
+      "seen": 0,
+      "known": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "vocab_046",
+    "category": "家・日常",
+    "word": "椅子",
+    "reading": "いす",
+    "meaning": "椅子",
+    "note": "家具。",
+    "example": "椅子に座ります。",
+    "example_cn": "坐在椅子上。",
+    "study": {
+      "seen": 0,
+      "known": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "vocab_047",
+    "category": "家・日常",
+    "word": "本",
+    "reading": "ほん",
+    "meaning": "书",
+    "note": "读物。",
+    "example": "日本語の本を読みます。",
+    "example_cn": "读日语书。",
+    "study": {
+      "seen": 0,
+      "known": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "vocab_048",
+    "category": "家・日常",
+    "word": "電話",
+    "reading": "でんわ",
+    "meaning": "电话",
+    "note": "通信工具。",
+    "example": "あとで電話します。",
+    "example_cn": "之后打电话。",
+    "study": {
+      "seen": 0,
+      "known": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "vocab_049",
+    "category": "家・日常",
+    "word": "鍵",
+    "reading": "かぎ",
+    "meaning": "钥匙",
+    "note": "日常物品。",
+    "example": "鍵はどこですか。",
+    "example_cn": "钥匙在哪里？",
+    "study": {
+      "seen": 0,
+      "known": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "vocab_050",
+    "category": "家・日常",
+    "word": "傘",
+    "reading": "かさ",
+    "meaning": "伞",
+    "note": "雨具。",
+    "example": "雨なので、傘を持ちます。",
+    "example_cn": "因为下雨，所以带伞。",
+    "study": {
+      "seen": 0,
+      "known": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "vocab_051",
+    "category": "饮食",
+    "word": "水",
+    "reading": "みず",
+    "meaning": "水",
+    "note": "饮料。",
+    "example": "水をください。",
+    "example_cn": "请给我水。",
+    "study": {
+      "seen": 0,
+      "known": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "vocab_052",
+    "category": "饮食",
+    "word": "お茶",
+    "reading": "おちゃ",
+    "meaning": "茶",
+    "note": "常见饮料。",
+    "example": "お茶を飲みます。",
+    "example_cn": "喝茶。",
+    "study": {
+      "seen": 0,
+      "known": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "vocab_053",
+    "category": "饮食",
+    "word": "コーヒー",
+    "reading": "コーヒー",
+    "meaning": "咖啡",
+    "note": "外来语。",
+    "example": "コーヒーを一杯ください。",
+    "example_cn": "请给我一杯咖啡。",
+    "study": {
+      "seen": 0,
+      "known": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "vocab_054",
+    "category": "饮食",
+    "word": "ご飯",
+    "reading": "ごはん",
+    "meaning": "米饭／饭",
+    "note": "既可指米饭也可泛指一餐。",
+    "example": "朝ご飯を食べます。",
+    "example_cn": "吃早饭。",
+    "study": {
+      "seen": 0,
+      "known": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "vocab_055",
+    "category": "饮食",
+    "word": "パン",
+    "reading": "パン",
+    "meaning": "面包",
+    "note": "外来语。",
+    "example": "パンを二つ買います。",
+    "example_cn": "买两个面包。",
+    "study": {
+      "seen": 0,
+      "known": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "vocab_056",
+    "category": "饮食",
+    "word": "魚",
+    "reading": "さかな",
+    "meaning": "鱼",
+    "note": "食物／动物。",
+    "example": "魚を食べます。",
+    "example_cn": "吃鱼。",
+    "study": {
+      "seen": 0,
+      "known": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "vocab_057",
+    "category": "饮食",
+    "word": "肉",
+    "reading": "にく",
+    "meaning": "肉",
+    "note": "食物。",
+    "example": "肉は食べません。",
+    "example_cn": "不吃肉。",
+    "study": {
+      "seen": 0,
+      "known": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "vocab_058",
+    "category": "饮食",
+    "word": "野菜",
+    "reading": "やさい",
+    "meaning": "蔬菜",
+    "note": "食物。",
+    "example": "野菜をたくさん食べます。",
+    "example_cn": "吃很多蔬菜。",
+    "study": {
+      "seen": 0,
+      "known": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "vocab_059",
+    "category": "饮食",
+    "word": "果物",
+    "reading": "くだもの",
+    "meaning": "水果",
+    "note": "食物。",
+    "example": "果物が好きです。",
+    "example_cn": "喜欢水果。",
+    "study": {
+      "seen": 0,
+      "known": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "vocab_060",
+    "category": "饮食",
+    "word": "美味しい",
+    "reading": "おいしい",
+    "meaning": "好吃",
+    "note": "い形容词。",
+    "example": "このラーメンは美味しいです。",
+    "example_cn": "这个拉面很好吃。",
+    "study": {
+      "seen": 0,
+      "known": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "vocab_061",
+    "category": "交通・地点",
+    "word": "駅",
+    "reading": "えき",
+    "meaning": "车站",
+    "note": "交通地点。",
+    "example": "駅で友達に会います。",
+    "example_cn": "在车站见朋友。",
+    "study": {
+      "seen": 0,
+      "known": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "vocab_062",
+    "category": "交通・地点",
+    "word": "電車",
+    "reading": "でんしゃ",
+    "meaning": "电车",
+    "note": "交通工具。",
+    "example": "電車で京都へ行きます。",
+    "example_cn": "坐电车去京都。",
+    "study": {
+      "seen": 0,
+      "known": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "vocab_063",
+    "category": "交通・地点",
+    "word": "バス",
+    "reading": "バス",
+    "meaning": "公交车",
+    "note": "交通工具。",
+    "example": "バスに乗ります。",
+    "example_cn": "坐公交车。",
+    "study": {
+      "seen": 0,
+      "known": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "vocab_064",
+    "category": "交通・地点",
+    "word": "車",
+    "reading": "くるま",
+    "meaning": "汽车",
+    "note": "交通工具。",
+    "example": "車で行きます。",
+    "example_cn": "开车去。",
+    "study": {
+      "seen": 0,
+      "known": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "vocab_065",
+    "category": "交通・地点",
+    "word": "自転車",
+    "reading": "じてんしゃ",
+    "meaning": "自行车",
+    "note": "交通工具。",
+    "example": "自転車で学校へ行きます。",
+    "example_cn": "骑自行车去学校。",
+    "study": {
+      "seen": 0,
+      "known": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "vocab_066",
+    "category": "交通・地点",
+    "word": "道",
+    "reading": "みち",
+    "meaning": "路",
+    "note": "道路。",
+    "example": "この道をまっすぐ行きます。",
+    "example_cn": "沿这条路直走。",
+    "study": {
+      "seen": 0,
+      "known": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "vocab_067",
+    "category": "交通・地点",
+    "word": "右",
+    "reading": "みぎ",
+    "meaning": "右边",
+    "note": "方向。",
+    "example": "右に曲がってください。",
+    "example_cn": "请右转。",
+    "study": {
+      "seen": 0,
+      "known": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "vocab_068",
+    "category": "交通・地点",
+    "word": "左",
+    "reading": "ひだり",
+    "meaning": "左边",
+    "note": "方向。",
+    "example": "左にコンビニがあります。",
+    "example_cn": "左边有便利店。",
+    "study": {
+      "seen": 0,
+      "known": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "vocab_069",
+    "category": "交通・地点",
+    "word": "近く",
+    "reading": "ちかく",
+    "meaning": "附近",
+    "note": "位置。",
+    "example": "近くに駅があります。",
+    "example_cn": "附近有车站。",
+    "study": {
+      "seen": 0,
+      "known": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "vocab_070",
+    "category": "交通・地点",
+    "word": "場所",
+    "reading": "ばしょ",
+    "meaning": "地方／地点",
+    "note": "地点。",
+    "example": "静かな場所が好きです。",
+    "example_cn": "喜欢安静的地方。",
+    "study": {
+      "seen": 0,
+      "known": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "vocab_071",
+    "category": "学校・工作",
+    "word": "学校",
+    "reading": "がっこう",
+    "meaning": "学校",
+    "note": "地点。",
+    "example": "学校で日本語を勉強します。",
+    "example_cn": "在学校学日语。",
+    "study": {
+      "seen": 0,
+      "known": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "vocab_072",
+    "category": "学校・工作",
+    "word": "会社",
+    "reading": "かいしゃ",
+    "meaning": "公司",
+    "note": "工作地点。",
+    "example": "会社へ行きます。",
+    "example_cn": "去公司。",
+    "study": {
+      "seen": 0,
+      "known": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "vocab_073",
+    "category": "学校・工作",
+    "word": "仕事",
+    "reading": "しごと",
+    "meaning": "工作",
+    "note": "职业活动。",
+    "example": "今日は仕事があります。",
+    "example_cn": "今天有工作。",
+    "study": {
+      "seen": 0,
+      "known": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "vocab_074",
+    "category": "学校・工作",
+    "word": "学生",
+    "reading": "がくせい",
+    "meaning": "学生",
+    "note": "身份。",
+    "example": "私は学生です。",
+    "example_cn": "我是学生。",
+    "study": {
+      "seen": 0,
+      "known": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "vocab_075",
+    "category": "学校・工作",
+    "word": "会社員",
+    "reading": "かいしゃいん",
+    "meaning": "公司职员",
+    "note": "职业。",
+    "example": "兄は会社員です。",
+    "example_cn": "哥哥是公司职员。",
+    "study": {
+      "seen": 0,
+      "known": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "vocab_076",
+    "category": "学校・工作",
+    "word": "勉強",
+    "reading": "べんきょう",
+    "meaning": "学习",
+    "note": "学习活动。",
+    "example": "毎日勉強します。",
+    "example_cn": "每天学习。",
+    "study": {
+      "seen": 0,
+      "known": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "vocab_077",
+    "category": "学校・工作",
+    "word": "宿題",
+    "reading": "しゅくだい",
+    "meaning": "作业",
+    "note": "学习任务。",
+    "example": "宿題をします。",
+    "example_cn": "做作业。",
+    "study": {
+      "seen": 0,
+      "known": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "vocab_078",
+    "category": "学校・工作",
+    "word": "質問",
+    "reading": "しつもん",
+    "meaning": "问题／提问",
+    "note": "提问。",
+    "example": "質問があります。",
+    "example_cn": "我有问题。",
+    "study": {
+      "seen": 0,
+      "known": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "vocab_079",
+    "category": "学校・工作",
+    "word": "答え",
+    "reading": "こたえ",
+    "meaning": "答案",
+    "note": "回答。",
+    "example": "答えを書いてください。",
+    "example_cn": "请写答案。",
+    "study": {
+      "seen": 0,
+      "known": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "vocab_080",
+    "category": "学校・工作",
+    "word": "休み",
+    "reading": "やすみ",
+    "meaning": "休息／休假",
+    "note": "非工作时间。",
+    "example": "明日は休みです。",
+    "example_cn": "明天休息。",
+    "study": {
+      "seen": 0,
+      "known": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "vocab_081",
+    "category": "购物・金钱",
+    "word": "店",
+    "reading": "みせ",
+    "meaning": "店",
+    "note": "商店。",
+    "example": "あの店は安いです。",
+    "example_cn": "那家店很便宜。",
+    "study": {
+      "seen": 0,
+      "known": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "vocab_082",
+    "category": "购物・金钱",
+    "word": "コンビニ",
+    "reading": "コンビニ",
+    "meaning": "便利店",
+    "note": "便利商店。",
+    "example": "コンビニで水を買います。",
+    "example_cn": "在便利店买水。",
+    "study": {
+      "seen": 0,
+      "known": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "vocab_083",
+    "category": "购物・金钱",
+    "word": "スーパー",
+    "reading": "スーパー",
+    "meaning": "超市",
+    "note": "购物地点。",
+    "example": "スーパーへ行きます。",
+    "example_cn": "去超市。",
+    "study": {
+      "seen": 0,
+      "known": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "vocab_084",
+    "category": "购物・金钱",
+    "word": "買う",
+    "reading": "かう",
+    "meaning": "买",
+    "note": "五段动词。",
+    "example": "お土産を買います。",
+    "example_cn": "买伴手礼。",
+    "study": {
+      "seen": 0,
+      "known": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "vocab_085",
+    "category": "购物・金钱",
+    "word": "売る",
+    "reading": "うる",
+    "meaning": "卖",
+    "note": "五段动词。",
+    "example": "この店は本を売っています。",
+    "example_cn": "这家店卖书。",
+    "study": {
+      "seen": 0,
+      "known": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "vocab_086",
+    "category": "购物・金钱",
+    "word": "お金",
+    "reading": "おかね",
+    "meaning": "钱",
+    "note": "金钱。",
+    "example": "お金がありません。",
+    "example_cn": "没有钱。",
+    "study": {
+      "seen": 0,
+      "known": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "vocab_087",
+    "category": "购物・金钱",
+    "word": "円",
+    "reading": "えん",
+    "meaning": "日元",
+    "note": "日本货币单位。",
+    "example": "五百円です。",
+    "example_cn": "500日元。",
+    "study": {
+      "seen": 0,
+      "known": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "vocab_088",
+    "category": "购物・金钱",
+    "word": "高い",
+    "reading": "たかい",
+    "meaning": "贵／高",
+    "note": "い形容词。",
+    "example": "これは少し高いです。",
+    "example_cn": "这个有点贵。",
+    "study": {
+      "seen": 0,
+      "known": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "vocab_089",
+    "category": "购物・金钱",
+    "word": "安い",
+    "reading": "やすい",
+    "meaning": "便宜",
+    "note": "い形容词。",
+    "example": "この店は安いです。",
+    "example_cn": "这家店便宜。",
+    "study": {
+      "seen": 0,
+      "known": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "vocab_090",
+    "category": "购物・金钱",
+    "word": "カード",
+    "reading": "カード",
+    "meaning": "卡／银行卡",
+    "note": "外来语。",
+    "example": "カードで払えますか。",
+    "example_cn": "可以刷卡付款吗？",
+    "study": {
+      "seen": 0,
+      "known": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "vocab_091",
+    "category": "天气・季节",
+    "word": "天気",
+    "reading": "てんき",
+    "meaning": "天气",
+    "note": "天气状况。",
+    "example": "今日は天気がいいです。",
+    "example_cn": "今天天气很好。",
+    "study": {
+      "seen": 0,
+      "known": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "vocab_092",
+    "category": "天气・季节",
+    "word": "雨",
+    "reading": "あめ",
+    "meaning": "雨",
+    "note": "天气。",
+    "example": "雨が降っています。",
+    "example_cn": "正在下雨。",
+    "study": {
+      "seen": 0,
+      "known": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "vocab_093",
+    "category": "天气・季节",
+    "word": "雪",
+    "reading": "ゆき",
+    "meaning": "雪",
+    "note": "天气。",
+    "example": "冬は雪が降ります。",
+    "example_cn": "冬天下雪。",
+    "study": {
+      "seen": 0,
+      "known": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "vocab_094",
+    "category": "天气・季节",
+    "word": "風",
+    "reading": "かぜ",
+    "meaning": "风",
+    "note": "天气。",
+    "example": "今日は風が強いです。",
+    "example_cn": "今天风很大。",
+    "study": {
+      "seen": 0,
+      "known": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "vocab_095",
+    "category": "天气・季节",
+    "word": "暑い",
+    "reading": "あつい",
+    "meaning": "热",
+    "note": "天气用い形容词。",
+    "example": "今日は暑いです。",
+    "example_cn": "今天很热。",
+    "study": {
+      "seen": 0,
+      "known": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "vocab_096",
+    "category": "天气・季节",
+    "word": "寒い",
+    "reading": "さむい",
+    "meaning": "冷",
+    "note": "天气用い形容词。",
+    "example": "京都の冬は寒いです。",
+    "example_cn": "京都的冬天很冷。",
+    "study": {
+      "seen": 0,
+      "known": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "vocab_097",
+    "category": "天气・季节",
+    "word": "春",
+    "reading": "はる",
+    "meaning": "春天",
+    "note": "季节。",
+    "example": "春は桜がきれいです。",
+    "example_cn": "春天樱花很漂亮。",
+    "study": {
+      "seen": 0,
+      "known": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "vocab_098",
+    "category": "天气・季节",
+    "word": "夏",
+    "reading": "なつ",
+    "meaning": "夏天",
+    "note": "季节。",
+    "example": "夏は暑いです。",
+    "example_cn": "夏天很热。",
+    "study": {
+      "seen": 0,
+      "known": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "vocab_099",
+    "category": "天气・季节",
+    "word": "秋",
+    "reading": "あき",
+    "meaning": "秋天",
+    "note": "季节。",
+    "example": "秋に京都へ行きたいです。",
+    "example_cn": "秋天想去京都。",
+    "study": {
+      "seen": 0,
+      "known": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "vocab_100",
+    "category": "天气・季节",
+    "word": "冬",
+    "reading": "ふゆ",
+    "meaning": "冬天",
+    "note": "季节。",
+    "example": "冬は日が短いです。",
+    "example_cn": "冬天天黑得早。",
+    "study": {
+      "seen": 0,
+      "known": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "vocab_101",
+    "category": "核心动词",
+    "word": "行く",
+    "reading": "いく",
+    "meaning": "去",
+    "note": "五段动词。",
+    "example": "明日、京都へ行きます。",
+    "example_cn": "明天去京都。",
+    "study": {
+      "seen": 0,
+      "known": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "vocab_102",
+    "category": "核心动词",
+    "word": "来る",
+    "reading": "くる",
+    "meaning": "来",
+    "note": "不规则动词。",
+    "example": "友達が家に来ます。",
+    "example_cn": "朋友来我家。",
+    "study": {
+      "seen": 0,
+      "known": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "vocab_103",
+    "category": "核心动词",
+    "word": "帰る",
+    "reading": "かえる",
+    "meaning": "回去／回家",
+    "note": "五段动词。",
+    "example": "六時に家へ帰ります。",
+    "example_cn": "六点回家。",
+    "study": {
+      "seen": 0,
+      "known": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "vocab_104",
+    "category": "核心动词",
+    "word": "食べる",
+    "reading": "たべる",
+    "meaning": "吃",
+    "note": "一段动词。",
+    "example": "朝ご飯を食べます。",
+    "example_cn": "吃早饭。",
+    "study": {
+      "seen": 0,
+      "known": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "vocab_105",
+    "category": "核心动词",
+    "word": "飲む",
+    "reading": "のむ",
+    "meaning": "喝",
+    "note": "五段动词。",
+    "example": "水を飲みます。",
+    "example_cn": "喝水。",
+    "study": {
+      "seen": 0,
+      "known": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "vocab_106",
+    "category": "核心动词",
+    "word": "見る",
+    "reading": "みる",
+    "meaning": "看",
+    "note": "一段动词。",
+    "example": "映画を見ます。",
+    "example_cn": "看电影。",
+    "study": {
+      "seen": 0,
+      "known": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "vocab_107",
+    "category": "核心动词",
+    "word": "読む",
+    "reading": "よむ",
+    "meaning": "读",
+    "note": "五段动词。",
+    "example": "本を読みます。",
+    "example_cn": "读书。",
+    "study": {
+      "seen": 0,
+      "known": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "vocab_108",
+    "category": "核心动词",
+    "word": "聞く",
+    "reading": "きく",
+    "meaning": "听／问",
+    "note": "五段动词。",
+    "example": "音楽を聞きます。",
+    "example_cn": "听音乐。",
+    "study": {
+      "seen": 0,
+      "known": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "vocab_109",
+    "category": "核心动词",
+    "word": "話す",
+    "reading": "はなす",
+    "meaning": "说／交谈",
+    "note": "五段动词。",
+    "example": "日本語で話します。",
+    "example_cn": "用日语说话。",
+    "study": {
+      "seen": 0,
+      "known": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "vocab_110",
+    "category": "核心动词",
+    "word": "書く",
+    "reading": "かく",
+    "meaning": "写",
+    "note": "五段动词。",
+    "example": "名前を書いてください。",
+    "example_cn": "请写名字。",
+    "study": {
+      "seen": 0,
+      "known": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "vocab_111",
+    "category": "更多动词",
+    "word": "会う",
+    "reading": "あう",
+    "meaning": "见面",
+    "note": "五段动词。",
+    "example": "駅で友達に会います。",
+    "example_cn": "在车站见朋友。",
+    "study": {
+      "seen": 0,
+      "known": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "vocab_112",
+    "category": "更多动词",
+    "word": "待つ",
+    "reading": "まつ",
+    "meaning": "等",
+    "note": "五段动词。",
+    "example": "ここで少し待ってください。",
+    "example_cn": "请在这里等一下。",
+    "study": {
+      "seen": 0,
+      "known": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "vocab_113",
+    "category": "更多动词",
+    "word": "使う",
+    "reading": "つかう",
+    "meaning": "使用",
+    "note": "五段动词。",
+    "example": "このアプリを使います。",
+    "example_cn": "使用这个应用。",
+    "study": {
+      "seen": 0,
+      "known": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "vocab_114",
+    "category": "更多动词",
+    "word": "作る",
+    "reading": "つくる",
+    "meaning": "制作／做",
+    "note": "五段动词。",
+    "example": "晩ご飯を作ります。",
+    "example_cn": "做晚饭。",
+    "study": {
+      "seen": 0,
+      "known": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "vocab_115",
+    "category": "更多动词",
+    "word": "入る",
+    "reading": "はいる",
+    "meaning": "进入",
+    "note": "五段动词。",
+    "example": "店に入ります。",
+    "example_cn": "进店。",
+    "study": {
+      "seen": 0,
+      "known": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "vocab_116",
+    "category": "更多动词",
+    "word": "出る",
+    "reading": "でる",
+    "meaning": "出去／离开",
+    "note": "一段动词。",
+    "example": "家を七時に出ます。",
+    "example_cn": "七点出门。",
+    "study": {
+      "seen": 0,
+      "known": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "vocab_117",
+    "category": "更多动词",
+    "word": "起きる",
+    "reading": "おきる",
+    "meaning": "起床",
+    "note": "一段动词。",
+    "example": "毎朝七時に起きます。",
+    "example_cn": "每天早上七点起床。",
+    "study": {
+      "seen": 0,
+      "known": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "vocab_118",
+    "category": "更多动词",
+    "word": "寝る",
+    "reading": "ねる",
+    "meaning": "睡觉",
+    "note": "一段动词。",
+    "example": "十一時に寝ます。",
+    "example_cn": "十一点睡觉。",
+    "study": {
+      "seen": 0,
+      "known": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "vocab_119",
+    "category": "更多动词",
+    "word": "する",
+    "reading": "する",
+    "meaning": "做",
+    "note": "不规则动词。",
+    "example": "毎日運動します。",
+    "example_cn": "每天运动。",
+    "study": {
+      "seen": 0,
+      "known": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "vocab_120",
+    "category": "更多动词",
+    "word": "ある",
+    "reading": "ある",
+    "meaning": "有（无生命）",
+    "note": "五段动词。",
+    "example": "机の上に本があります。",
+    "example_cn": "桌上有书。",
+    "study": {
+      "seen": 0,
+      "known": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "vocab_121",
+    "category": "形容词・状态",
+    "word": "いい",
+    "reading": "いい",
+    "meaning": "好",
+    "note": "い形容词，过去式等有特殊变化。",
+    "example": "この店はいいですね。",
+    "example_cn": "这家店不错。",
+    "study": {
+      "seen": 0,
+      "known": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "vocab_122",
+    "category": "形容词・状态",
+    "word": "悪い",
+    "reading": "わるい",
+    "meaning": "坏／不好",
+    "note": "い形容词。",
+    "example": "今日は気分が悪いです。",
+    "example_cn": "今天身体不舒服。",
+    "study": {
+      "seen": 0,
+      "known": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "vocab_123",
+    "category": "形容词・状态",
+    "word": "大きい",
+    "reading": "おおきい",
+    "meaning": "大",
+    "note": "い形容词。",
+    "example": "大きい犬ですね。",
+    "example_cn": "好大的狗。",
+    "study": {
+      "seen": 0,
+      "known": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "vocab_124",
+    "category": "形容词・状态",
+    "word": "小さい",
+    "reading": "ちいさい",
+    "meaning": "小",
+    "note": "い形容词。",
+    "example": "小さい部屋です。",
+    "example_cn": "是个小房间。",
+    "study": {
+      "seen": 0,
+      "known": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "vocab_125",
+    "category": "形容词・状态",
+    "word": "新しい",
+    "reading": "あたらしい",
+    "meaning": "新",
+    "note": "い形容词。",
+    "example": "新しい靴を買いました。",
+    "example_cn": "买了新鞋。",
+    "study": {
+      "seen": 0,
+      "known": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "vocab_126",
+    "category": "形容词・状态",
+    "word": "古い",
+    "reading": "ふるい",
+    "meaning": "旧／老",
+    "note": "い形容词。",
+    "example": "古い町家を見ました。",
+    "example_cn": "看了老町家。",
+    "study": {
+      "seen": 0,
+      "known": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "vocab_127",
+    "category": "形容词・状态",
+    "word": "忙しい",
+    "reading": "いそがしい",
+    "meaning": "忙",
+    "note": "い形容词。",
+    "example": "今日は忙しいです。",
+    "example_cn": "今天很忙。",
+    "study": {
+      "seen": 0,
+      "known": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "vocab_128",
+    "category": "形容词・状态",
+    "word": "楽しい",
+    "reading": "たのしい",
+    "meaning": "开心／有趣",
+    "note": "い形容词。",
+    "example": "旅行は楽しいです。",
+    "example_cn": "旅行很开心。",
+    "study": {
+      "seen": 0,
+      "known": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "vocab_129",
+    "category": "形容词・状态",
+    "word": "静か",
+    "reading": "しずか",
+    "meaning": "安静",
+    "note": "な形容词。",
+    "example": "ここは静かです。",
+    "example_cn": "这里很安静。",
+    "study": {
+      "seen": 0,
+      "known": 0,
+      "review": 0
+    }
+  },
+  {
+    "id": "vocab_130",
+    "category": "形容词・状态",
+    "word": "きれい",
+    "reading": "きれい",
+    "meaning": "漂亮／干净",
+    "note": "な形容词。",
+    "example": "桜がきれいです。",
+    "example_cn": "樱花很漂亮。",
+    "study": {
+      "seen": 0,
+      "known": 0,
+      "review": 0
+    }
+  }
+]

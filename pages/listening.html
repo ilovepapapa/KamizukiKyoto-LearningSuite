@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <meta name="theme-color" content="#2b221e"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <title>神月京都物语 · 🎧 听力训练</title><link rel="manifest" href="../manifest.webmanifest"><link rel="apple-touch-icon" href="../images/icon-192.png">
+  <link rel="stylesheet" href="../css/style.css">
+</head>
+<body data-page="listening">
+<div class="app-shell">
+  <aside id="sidebar"></aside>
+  <main class="main-stage">
+    <header class="topbar">
+      <div class="player-info">
+        <div class="player-name">🎧 听力训练</div>
+        <div class="player-level">KANA / WORDS / SENTENCES</div>
+      </div>
+      <div class="header-progress">
+        <div class="header-progress-line"><span data-header-daily>今日 0 / 12</span><span data-header-exp>总经验 0 EXP</span></div>
+        <div class="exp-bar"><div class="exp-value" data-header-bar></div></div>
+      </div>
+    </header>
+    
+<section class="page-hero study-hero">
+  <div><span class="section-kicker">LISTENING</span><h1>听力训练</h1><p>把“看懂”变成“听懂”。可练假名、单词或完整句型；先听，再选择答案。</p></div>
+  <div class="hero-chip"><b id="listening-score">—</b><span>本轮正确率</span></div>
+</section>
+
+<section class="listening-shell">
+  <div class="listening-settings">
+    <label>题型
+      <select id="listening-mode">
+        <option value="kana">假名辨音</option>
+        <option value="vocab">单词辨义</option>
+        <option value="patterns">句型辨义</option>
+        <option value="mixed">混合练习</option>
+      </select>
+    </label>
+    <label>题数
+      <select id="listening-count">
+        <option value="5">5 题</option>
+        <option value="10" selected>10 题</option>
+        <option value="15">15 题</option>
+      </select>
+    </label>
+    <button class="primary-action button-reset" id="start-listening">开始一轮</button>
+  </div>
+  <section id="listening-stage" class="listening-stage empty-state">
+    <div class="empty-symbol">🎧</div><h2>准备好以后开始</h2><p>建议戴耳机。每题都可以重复播放。</p>
+  </section>
+</section>
+
+  </main>
+</div>
+<script src="../js/shared.js"></script>
+<script src="../js/listening.js"></script>
+</body>
+</html>

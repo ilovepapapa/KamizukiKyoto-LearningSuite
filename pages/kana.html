@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <meta name="theme-color" content="#2b221e"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <title>神月京都物语 · あ 五十音</title><link rel="manifest" href="../manifest.webmanifest"><link rel="apple-touch-icon" href="../images/icon-192.png">
+  <link rel="stylesheet" href="../css/style.css">
+</head>
+<body data-page="kana">
+<div class="app-shell">
+  <aside id="sidebar"></aside>
+  <main class="main-stage">
+    <header class="topbar">
+      <div class="player-info">
+        <div class="player-name">あ 五十音</div>
+        <div class="player-level">46 KANA · SOUND / SHAPE / WORD</div>
+      </div>
+      <div class="header-progress">
+        <div class="header-progress-line"><span data-header-daily>今日 0 / 12</span><span data-header-exp>总经验 0 EXP</span></div>
+        <div class="exp-bar"><div class="exp-value" data-header-bar></div></div>
+      </div>
+    </header>
+    
+<section class="page-hero study-hero">
+  <div><span class="section-kicker">KANA</span><h1>五十音学习</h1><p>46 个现代基础假名。先听声音，再看字形，最后用例词和复习把记忆固定下来。</p></div>
+  <div class="hero-chip"><b id="kana-unlocked">1</b><span>/ 46 已解锁</span></div>
+</section>
+
+<section class="study-layout">
+  <section class="ayano-panel">
+    <div class="character-card">
+      <div class="character-avatar-wrap"><img src="../images/ayano.png" onerror="this.onerror=null;this.src='../images/ayano.svg'" alt="绫乃" class="character-avatar"></div>
+      <div class="character-name">绫乃</div><div class="character-jp">綾乃</div><div class="character-note">日语学习向导</div>
+    </div>
+    <div class="dialogue-box">
+      <div class="dialogue-speaker">绫乃：</div>
+      <div class="dialogue-text" id="ayano-jp-text">一文字ずつ、確実に覚えましょう。</div>
+      <div class="dialogue-text-cn" id="ayano-cn-text">一张一张学，不要赶进度。</div>
+    </div>
+  </section>
+
+  <section class="lesson-column">
+    <div class="card-stage">
+      <button type="button" class="nav-button" id="previous-button">←</button>
+      <div id="lesson-area"></div>
+      <button type="button" class="nav-button" id="next-button">→</button>
+    </div>
+    <div class="footer-quote">音 → 形 → 例词 → 回忆</div>
+  </section>
+
+  <aside class="study-note">
+    <div class="note-section"><h2>🌸 字源 / 记忆</h2><p id="tip-origin">只把经过确认的字源作为字源；其他内容只作为记忆联想。</p></div>
+    <div class="note-divider"></div>
+    <div class="note-section"><h2>💡 字形联想</h2><p id="tip-shape">观察整体轮廓。</p></div>
+    <div class="note-divider"></div>
+    <div class="note-section"><h2>🔊 发音</h2><p id="tip-pronunciation">听一次，模仿一次。</p></div>
+    <div class="note-divider"></div>
+    <div class="note-section"><h2>🎯 例词</h2><p id="tip-example">例词会帮助你把假名放进真实语言。</p></div>
+  </aside>
+</section>
+
+  </main>
+</div>
+<script src="../js/shared.js"></script>
+<script src="../js/kana.js"></script>
+</body>
+</html>
